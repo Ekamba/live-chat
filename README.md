@@ -1,6 +1,6 @@
 # Realtime Chat Application
 
-### [Live Site](https://instant-chat-application.netlify.app/)
+### [view app in live here](https://instant-chat-application.netlify.app/)
 
 ![Chat Application](https://i.ibb.co/HBtM27M/chatbg.png)
 ![Chat Application](https://i.ibb.co/RDYmtYq/chatimg.png)
